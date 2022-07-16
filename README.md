@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning programming
 - 😄 Pronouns: He/Him/She/Her
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api? username=DarkMoonPlayz1&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkMoonPlayz1 &theme=radical)
